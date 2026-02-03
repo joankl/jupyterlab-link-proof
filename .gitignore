@@ -1,0 +1,18 @@
+
+# Formatos solicitados
+*.png
+*.npy
+
+# Archivos de datos pesados comunes en física
+*.root
+*.csv
+*.h5
+*.dat
+
+# Archivos temporales de Jupyter
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Entorno virtual
+venv/
+.env
